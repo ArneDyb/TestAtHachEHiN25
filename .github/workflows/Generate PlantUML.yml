@@ -1,4 +1,5 @@
 name: Generate PlantUML
+
 on:
   push:
     branches:

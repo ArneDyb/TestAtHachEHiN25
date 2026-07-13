@@ -9,4 +9,4 @@ Liste over formater og elementer
 ## Til Visninger
 
 
-<!-- [Diagram Image Link](TestPlant.puml) -->
+[Diagram Image Link](TestPlant.puml)
